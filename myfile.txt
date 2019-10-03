@@ -1,0 +1,1 @@
+Crie um ficheiro myfile.txt com algum texto e coloque-o na diretoria corrente
