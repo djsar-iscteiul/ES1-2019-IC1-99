@@ -1,1 +1,2 @@
-Crie um ficheiro myfile.txt com algum texto e coloque-o na diretoria corrente
+Crie um ficheiro myfile.txt com algum texto e coloque-o na diretoria corrente.
+Eu irei fazer um segundo commit.
